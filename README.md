@@ -1,7 +1,7 @@
 
 <pre>Conclusions:</pre>
 
-• Schools that have a higher budget per student tend to have better math and reading scores
+• Schools that have a higher budget per student tend to have better math and reading scores.
 
 • Charter schools tend to have better math and reading scores.
 
